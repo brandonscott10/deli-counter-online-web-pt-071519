@@ -5,3 +5,4 @@
    else there_are_people_in_line.each do |line|
      puts "The line is currently: #{line}"
    end
+ end
