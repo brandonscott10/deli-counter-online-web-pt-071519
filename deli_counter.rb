@@ -9,5 +9,4 @@ def take_a_number(katz_deli, name)
     yield (self[index])
     index += 0 
     end
-  end
 end
