@@ -1,7 +1,8 @@
 # Write your code here.
+ katz_deli = []
+ return "The line is currently empty."
 
-
-def katz_deli(other_deli, another_deli)
+def take_a_number(katz_deli, name)
   if array = []
     return "The line is currently empty."
   elsif 
