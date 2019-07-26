@@ -3,4 +3,4 @@
  return "The line is currently empty."
 
 def take_a_number(katz_deli, name)
-  
+  length
